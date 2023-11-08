@@ -1,0 +1,13 @@
+﻿  Entity.cpp
+C:\Users\wilme\OneDrive\Documents\Gaming Class\Project1_Liburd\Entity.h(94,58): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\wilme\OneDrive\Documents\Gaming Class\Project1_Liburd\Entity.h(95,58): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  Map.cpp
+C:\Users\wilme\OneDrive\Documents\Gaming Class\Project1_Liburd\Map.cpp(126,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\wilme\OneDrive\Documents\Gaming Class\Project1_Liburd\Map.cpp(127,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Users\wilme\OneDrive\Documents\Gaming Class\Project1_Liburd\Entity.h(94,58): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\wilme\OneDrive\Documents\Gaming Class\Project1_Liburd\Entity.h(95,58): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\wilme\OneDrive\Documents\Gaming Class\Project1_Liburd\main.cpp(137,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wilme\OneDrive\Documents\Gaming Class\Project1_Liburd\main.cpp(283,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Project1_Liburd.vcxproj -> C:\Users\wilme\OneDrive\Documents\Gaming Class\Project1_Liburd\Debug\Project1_Liburd.exe
